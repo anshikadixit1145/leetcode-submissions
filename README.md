@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1267-count-servers-that-communicate) |
 | [1882-process-tasks-using-servers](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1882-process-tasks-using-servers) |
 | [2747-count-zero-request-servers](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/2747-count-zero-request-servers) |
 ## Hash Table
@@ -24,4 +25,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1882-process-tasks-using-servers](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1882-process-tasks-using-servers) |
+## Depth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1267-count-servers-that-communicate) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1267-count-servers-that-communicate) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1267-count-servers-that-communicate) |
+## Matrix
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1267-count-servers-that-communicate) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
