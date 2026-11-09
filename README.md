@@ -1,5 +1,8 @@
-# leetcode-submissions
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# LeetCode Solutions | Java
+
+This is a curated record of Data Structures and Algorithms in Java, which I've been practicing specifically for placement preparation with a focus on clean, readable solutions. Solutions are updated here and organized by topic, with emphasis on optimal approaches and complexity analysis.
+
+**Platform:** [LeetCode](https://leetcode.com/u/anshika_dixit1145)
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
