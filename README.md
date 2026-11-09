@@ -1,6 +1,6 @@
 # LeetCode Solutions | Java
 
-This is a curated record of Data Structures and Algorithms in Java, which I've been practicing specifically for placement preparation with a focus on clean, readable solutions. Solutions are updated here and organized by topic, with emphasis on optimal approaches and complexity analysis.
+A structured record of Data Structures and Algorithms practice in Java, organized by topic, with emphasis on optimal approaches and complexity analysis.
 
 **Platform:** [LeetCode](https://leetcode.com/u/anshika_dixit1145)
 
