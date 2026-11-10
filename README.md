@@ -9,6 +9,7 @@ A structured record of Data Structures and Algorithms practice in Java, organize
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0169-majority-element) |
 | [1267-count-servers-that-communicate](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1267-count-servers-that-communicate) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1882-process-tasks-using-servers) |
@@ -17,6 +18,7 @@ A structured record of Data Structures and Algorithms practice in Java, organize
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0169-majority-element) |
 | [2747-count-zero-request-servers](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/2747-count-zero-request-servers) |
 ## Sliding Window
 |  |
@@ -25,6 +27,7 @@ A structured record of Data Structures and Algorithms practice in Java, organize
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0169-majority-element) |
 | [2747-count-zero-request-servers](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/2747-count-zero-request-servers) |
 ## Heap (Priority Queue)
 |  |
@@ -50,6 +53,7 @@ A structured record of Data Structures and Algorithms practice in Java, organize
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0169-majority-element) |
 | [1267-count-servers-that-communicate](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1267-count-servers-that-communicate) |
 ## Simulation
 |  |
@@ -63,4 +67,12 @@ A structured record of Data Structures and Algorithms practice in Java, organize
 |  |
 | ------- |
 | [3693-climbing-stairs-ii](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/3693-climbing-stairs-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
