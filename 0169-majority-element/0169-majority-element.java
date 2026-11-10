@@ -1,3 +1,5 @@
+//solved using the sorting technique, the most optimal TC achievable via sorting is O(nlogn), which can be implemented using either the Quick Sort or the Merge Sort(the one used down below)
+
 import java.util.*;
 class Solution {
 
