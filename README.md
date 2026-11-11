@@ -75,4 +75,12 @@ A structured record of Data Structures and Algorithms practice in Java, organize
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/3789-minimum-cost-to-acquire-required-items) |
+## Greedy
+|  |
+| ------- |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 <!---LeetCode Topics End-->
