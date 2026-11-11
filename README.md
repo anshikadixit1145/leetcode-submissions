@@ -10,6 +10,7 @@ A structured record of Data Structures and Algorithms practice in Java, organize
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [1267-count-servers-that-communicate](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1267-count-servers-that-communicate) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1882-process-tasks-using-servers) |
@@ -19,6 +20,7 @@ A structured record of Data Structures and Algorithms practice in Java, organize
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [2747-count-zero-request-servers](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/2747-count-zero-request-servers) |
 ## Sliding Window
 |  |
@@ -28,6 +30,7 @@ A structured record of Data Structures and Algorithms practice in Java, organize
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [2747-count-zero-request-servers](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/2747-count-zero-request-servers) |
 ## Heap (Priority Queue)
 |  |
@@ -54,6 +57,7 @@ A structured record of Data Structures and Algorithms practice in Java, organize
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [1267-count-servers-that-communicate](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1267-count-servers-that-communicate) |
 ## Simulation
 |  |
@@ -75,6 +79,7 @@ A structured record of Data Structures and Algorithms practice in Java, organize
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0229-majority-element-ii) |
 ## Math
 |  |
 | ------- |
