@@ -9,6 +9,7 @@ A structured record of Data Structures and Algorithms practice in Java, organize
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0229-majority-element-ii) |
@@ -37,6 +38,7 @@ A structured record of Data Structures and Algorithms practice in Java, organize
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [2747-count-zero-request-servers](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/2747-count-zero-request-servers) |
@@ -129,4 +131,16 @@ A structured record of Data Structures and Algorithms practice in Java, organize
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
