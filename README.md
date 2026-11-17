@@ -83,6 +83,7 @@ A structured record of Data Structures and Algorithms practice in Java, organize
 |  |
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3693-climbing-stairs-ii](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/3693-climbing-stairs-ii) |
 ## Divide and Conquer
 |  |
@@ -131,10 +132,12 @@ A structured record of Data Structures and Algorithms practice in Java, organize
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0075-sort-colors) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Quicksort
 |  |
 | ------- |
