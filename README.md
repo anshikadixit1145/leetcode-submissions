@@ -13,6 +13,7 @@ A structured record of Data Structures and Algorithms practice in Java, organize
 | [0128-longest-consecutive-sequence](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0229-majority-element-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
 | [1267-count-servers-that-communicate](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1267-count-servers-that-communicate) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -91,6 +92,7 @@ A structured record of Data Structures and Algorithms practice in Java, organize
 ## Dynamic Programming
 |  |
 | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3693-climbing-stairs-ii](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/3693-climbing-stairs-ii) |
@@ -173,4 +175,12 @@ A structured record of Data Structures and Algorithms practice in Java, organize
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1631-path-with-minimum-effort) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
