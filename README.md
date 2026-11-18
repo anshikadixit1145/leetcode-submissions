@@ -16,6 +16,7 @@ A structured record of Data Structures and Algorithms practice in Java, organize
 | [1267-count-servers-that-communicate](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1267-count-servers-that-communicate) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [1631-path-with-minimum-effort](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1631-path-with-minimum-effort) |
 | [1882-process-tasks-using-servers](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1882-process-tasks-using-servers) |
 | [2747-count-zero-request-servers](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/2747-count-zero-request-servers) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -47,26 +48,31 @@ A structured record of Data Structures and Algorithms practice in Java, organize
 | ------- |
 | [0743-network-delay-time](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0743-network-delay-time) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [1631-path-with-minimum-effort](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1631-path-with-minimum-effort) |
 | [1882-process-tasks-using-servers](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1882-process-tasks-using-servers) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0743-network-delay-time) |
 | [1267-count-servers-that-communicate](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1267-count-servers-that-communicate) |
+| [1631-path-with-minimum-effort](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0743-network-delay-time) |
 | [1267-count-servers-that-communicate](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1267-count-servers-that-communicate) |
+| [1631-path-with-minimum-effort](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1631-path-with-minimum-effort) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [1267-count-servers-that-communicate](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1267-count-servers-that-communicate) |
+| [1631-path-with-minimum-effort](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1267-count-servers-that-communicate) |
+| [1631-path-with-minimum-effort](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1631-path-with-minimum-effort) |
 ## Counting
 |  |
 | ------- |
@@ -162,4 +168,9 @@ A structured record of Data Structures and Algorithms practice in Java, organize
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1631-path-with-minimum-effort) |
+## Binary Search
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
