@@ -45,15 +45,18 @@ A structured record of Data Structures and Algorithms practice in Java, organize
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0743-network-delay-time) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1882-process-tasks-using-servers) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0743-network-delay-time) |
 | [1267-count-servers-that-communicate](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1267-count-servers-that-communicate) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0743-network-delay-time) |
 | [1267-count-servers-that-communicate](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1267-count-servers-that-communicate) |
 ## Union-Find
 |  |
@@ -146,4 +149,16 @@ A structured record of Data Structures and Algorithms practice in Java, organize
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0075-sort-colors) |
+## Graph Theory
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
