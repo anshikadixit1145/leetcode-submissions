@@ -20,6 +20,7 @@ A structured record of Data Structures and Algorithms practice in Java, organize
 | [1631-path-with-minimum-effort](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1631-path-with-minimum-effort) |
 | [1882-process-tasks-using-servers](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1882-process-tasks-using-servers) |
 | [2747-count-zero-request-servers](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/2747-count-zero-request-servers) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -44,6 +45,7 @@ A structured record of Data Structures and Algorithms practice in Java, organize
 | [0169-majority-element](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [2747-count-zero-request-servers](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/2747-count-zero-request-servers) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A structured record of Data Structures and Algorithms practice in Java, organize
 | [0416-partition-equal-subset-sum](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3693-climbing-stairs-ii](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/3693-climbing-stairs-ii) |
 ## Divide and Conquer
 |  |
