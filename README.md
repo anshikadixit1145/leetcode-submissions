@@ -22,6 +22,7 @@ A structured record of Data Structures and Algorithms practice in Java, organize
 | [2747-count-zero-request-servers](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/2747-count-zero-request-servers) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3693-climbing-stairs-ii](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/3693-climbing-stairs-ii) |
@@ -32,6 +33,7 @@ A structured record of Data Structures and Algorithms practice in Java, organize
 | [0169-majority-element](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [2747-count-zero-request-servers](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/2747-count-zero-request-servers) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Sliding Window
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A structured record of Data Structures and Algorithms practice in Java, organize
 | [0743-network-delay-time](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0743-network-delay-time) |
 | [1267-count-servers-that-communicate](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1267-count-servers-that-communicate) |
 | [1631-path-with-minimum-effort](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1631-path-with-minimum-effort) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -148,6 +151,7 @@ A structured record of Data Structures and Algorithms practice in Java, organize
 | [2243-calculate-digit-sum-of-a-string](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -186,4 +190,8 @@ A structured record of Data Structures and Algorithms practice in Java, organize
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
+## Tree
+|  |
+| ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/3331-find-subtree-sizes-after-changes) |
 <!---LeetCode Topics End-->
