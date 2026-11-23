@@ -62,6 +62,7 @@ A structured record of Data Structures and Algorithms practice in Java, organize
 | [0130-surrounded-regions](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0130-surrounded-regions) |
 | [0743-network-delay-time](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0743-network-delay-time) |
 | [1267-count-servers-that-communicate](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1267-count-servers-that-communicate) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1631-path-with-minimum-effort) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Breadth-First Search
@@ -103,6 +104,7 @@ A structured record of Data Structures and Algorithms practice in Java, organize
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
@@ -199,5 +201,18 @@ A structured record of Data Structures and Algorithms practice in Java, organize
 ## Tree
 |  |
 | ------- |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/3331-find-subtree-sizes-after-changes) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 <!---LeetCode Topics End-->
