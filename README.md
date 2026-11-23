@@ -11,6 +11,7 @@ A structured record of Data Structures and Algorithms practice in Java, organize
 | ------- |
 | [0075-sort-colors](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0130-surrounded-regions) |
 | [0169-majority-element](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
@@ -58,6 +59,7 @@ A structured record of Data Structures and Algorithms practice in Java, organize
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0130-surrounded-regions) |
 | [0743-network-delay-time](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0743-network-delay-time) |
 | [1267-count-servers-that-communicate](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1267-count-servers-that-communicate) |
 | [1631-path-with-minimum-effort](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1631-path-with-minimum-effort) |
@@ -65,6 +67,7 @@ A structured record of Data Structures and Algorithms practice in Java, organize
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0130-surrounded-regions) |
 | [0743-network-delay-time](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0743-network-delay-time) |
 | [1267-count-servers-that-communicate](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1267-count-servers-that-communicate) |
 | [1631-path-with-minimum-effort](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1631-path-with-minimum-effort) |
@@ -72,11 +75,13 @@ A structured record of Data Structures and Algorithms practice in Java, organize
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0130-surrounded-regions) |
 | [1267-count-servers-that-communicate](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1267-count-servers-that-communicate) |
 | [1631-path-with-minimum-effort](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0130-surrounded-regions) |
 | [1267-count-servers-that-communicate](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1267-count-servers-that-communicate) |
 | [1631-path-with-minimum-effort](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1631-path-with-minimum-effort) |
 ## Counting
