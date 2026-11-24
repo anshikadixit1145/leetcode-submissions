@@ -25,6 +25,7 @@ A structured record of Data Structures and Algorithms practice in Java, organize
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3693-climbing-stairs-ii](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/3693-climbing-stairs-ii) |
 ## Hash Table
@@ -40,6 +41,7 @@ A structured record of Data Structures and Algorithms practice in Java, organize
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/2747-count-zero-request-servers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Sorting
 |  |
@@ -122,6 +124,7 @@ A structured record of Data Structures and Algorithms practice in Java, organize
 |  |
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Greedy
 |  |
@@ -215,4 +218,12 @@ A structured record of Data Structures and Algorithms practice in Java, organize
 |  |
 | ------- |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
