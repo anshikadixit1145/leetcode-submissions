@@ -28,6 +28,7 @@ A structured record of Data Structures and Algorithms practice in Java, organize
 | [3411-maximum-subarray-with-equal-products](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3693-climbing-stairs-ii](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/3693-climbing-stairs-ii) |
+| [3934-smallest-unique-subarray](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/3934-smallest-unique-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A structured record of Data Structures and Algorithms practice in Java, organize
 | [0229-majority-element-ii](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [2747-count-zero-request-servers](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/2747-count-zero-request-servers) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3934-smallest-unique-subarray](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/3934-smallest-unique-subarray) |
 ## Sliding Window
 |  |
 | ------- |
@@ -193,6 +195,7 @@ A structured record of Data Structures and Algorithms practice in Java, organize
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1631-path-with-minimum-effort) |
+| [3934-smallest-unique-subarray](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/3934-smallest-unique-subarray) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -226,4 +229,16 @@ A structured record of Data Structures and Algorithms practice in Java, organize
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/3411-maximum-subarray-with-equal-products) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
