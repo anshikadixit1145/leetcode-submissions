@@ -100,6 +100,7 @@ A structured record of Data Structures and Algorithms practice in Java, organize
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/3360-stone-removal-game) |
 ## Ordered Set
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A structured record of Data Structures and Algorithms practice in Java, organize
 |  |
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3360-stone-removal-game](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Greedy
