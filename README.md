@@ -30,6 +30,7 @@ A structured record of Data Structures and Algorithms practice in Java, organize
 | [3693-climbing-stairs-ii](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/3693-climbing-stairs-ii) |
 | [3934-smallest-unique-subarray](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/3934-smallest-unique-subarray) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A structured record of Data Structures and Algorithms practice in Java, organize
 | [0229-majority-element-ii](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [2747-count-zero-request-servers](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/2747-count-zero-request-servers) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A structured record of Data Structures and Algorithms practice in Java, organize
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1631-path-with-minimum-effort](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1631-path-with-minimum-effort) |
 | [1882-process-tasks-using-servers](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/1882-process-tasks-using-servers) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -137,6 +140,7 @@ A structured record of Data Structures and Algorithms practice in Java, organize
 | ------- |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/anshikadixit1145/leetcode-submissions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Stack
 |  |
 | ------- |
